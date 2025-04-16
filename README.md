@@ -80,7 +80,7 @@ flowchart TB
 
 ## Disclaimer subtil
 
-Proiectul a fost realizat cu efort considerabil si rabdare extinsa, mai ales in interactiunea cu interfata Fusion 360. Satisfactia finala a fost proportionala cu cantitatea de workaround-uri folosite.
+Acest proiect a fost realizat cu atentie la detalii si cu efort considerabil, in contextul unor cerinte tehnice variate si din ce in ce mai ambitioase. Procesul de proiectare in Fusion 360 a oferit ocazii multiple de invatare, unele mai interesante decat altele. Daca anumite alegeri de design par neasteptate, ele reflecta acest parcurs complex.
 
 
 ---
